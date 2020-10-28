@@ -1,8 +1,8 @@
 # Get version of application from git
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/tiborhegedus/laravel-git-version.svg?style=flat-square)](https://packagist.org/packages/tiborhegedus/laravel-git-version)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/tiborhegedus/laravel-git-version/run-tests?label=tests)](https://github.com/tiborhegedus/laravel-git-version/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/tiborhegedus/laravel-git-version.svg?style=flat-square)](https://packagist.org/packages/tiborhegedus/laravel-git-version)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/hegedustibor/laravel-git-version.svg?style=flat-square)](https://packagist.org/packages/hegedustibor/laravel-git-version)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/hegedustibor/laravel-git-version/run-tests?label=tests)](https://github.com/hegedustibor/laravel-git-version/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Total Downloads](https://img.shields.io/packagist/dt/hegedustibor/laravel-git-version.svg?style=flat-square)](https://packagist.org/packages/hegedustibor/laravel-git-version)
 
 
 Do you want to show version of your application from git? It is possible with this package.
