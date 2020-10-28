@@ -2,8 +2,6 @@
 
 namespace TiborHegedus\GitVersion\Tests;
 
-use Illuminate\Support\Facades\File;
-
 class GitVersionTest extends TestCase
 {
     /** @test */

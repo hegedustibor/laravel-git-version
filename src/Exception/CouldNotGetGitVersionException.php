@@ -3,10 +3,8 @@
 
 namespace TiborHegedus\GitVersion\Exception;
 
-
 class CouldNotGetGitVersionException extends \Exception
 {
-
     /**
      * CouldNotGetGitVersionException constructor.
      */
